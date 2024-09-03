@@ -2,6 +2,7 @@
 
 return new class
 {
+
     public static function Load(): void
     {
         spl_autoload_register( function ( $strClassName )
