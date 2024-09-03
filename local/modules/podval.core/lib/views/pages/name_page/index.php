@@ -1,0 +1,3 @@
+<?php
+
+$page->controller->LoadColors();
