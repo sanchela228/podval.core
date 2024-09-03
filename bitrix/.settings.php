@@ -73,7 +73,7 @@ return array (
   array (
     'value' => 
     array (
-        'crypto_key' => 'crvrrfbhgrc4xr9hu8wpxhv283knkel4',
+        'crypto_key' => '',
     ),
     'readonly' => true,
   ),
@@ -85,9 +85,9 @@ return array (
       array (
         'className' => '\\Bitrix\\Main\\DB\\MysqliConnection',
         'host' => 'localhost',
-        'database' => 'sitemanager',
-        'login'    => 'bitrix0',
-        'password' => '3MwGGhmZRXAEdloMyqZ!',
+        'database' => 'local',
+        'login'    => 'local',
+        'password' => 'local',
         'options' => 2,
       ),
     ),
